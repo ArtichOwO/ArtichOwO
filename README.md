@@ -3,7 +3,7 @@
 <span>Photo by <a href="https://unsplash.com/@jaydeee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">jordan duca</a> on <a href="https://unsplash.com/s/photos/anime?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtichOwO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtichOwO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtichOwO&show_icons=true&theme=radical&exclude_repo=epsilon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ArtichOwO/ArtichOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
