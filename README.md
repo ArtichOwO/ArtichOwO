@@ -10,7 +10,7 @@
   I'm currently working on:
   - [ArtichOS](https://github.com/ArtichOwO/ArtichOS), a little 16 bit OS which does pretty much nothing, except it allows me to improve myself in low-level programming;
   - [ArtiLang](https://github.com/ArtichOwO/ArtiLang) (yes it's a lot of "arti"-thing but it's temporary names) a simple programming language meant to create 16-bits 8086 applications, with a syntax similar to C;
-  - small contributions to [Omega](https://github.com/Omega-Numworks/Omega) (now [Upsilon](https://github.com/Lauryy06/Upsilon)), an alternative OS for the [NumWorks calculator](https://www.numworks.com).
+  - [4channer](https://github.com/ArtichOwO/4channer) an iOS read-only 4chan client.
   
   My main programming languages are Python, OCaml and a bit of C/C++ with (N)ASM (ew AT&T). I'm bad in all these languages but I'm still improving :3  
   <br />
