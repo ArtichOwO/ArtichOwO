@@ -1,7 +1,7 @@
 <img src="image2.png" title="eh eh eh" align="left" height="200"/>
 
 ### Hello, hello ( ´ ▽ ` )ﾉ
-I'm a 17yo french student, who loves electronic stuff, but also music, anime and drawing (that's what you call a 'weeb').  
+I'm a french student, who loves electronic stuff, but also music, anime and drawing (that's what you call a 'weeb').  
 At school I'm learning maths and biology, and I'm planning to learn computer science more in-depth next year.  
 
 <hr />
@@ -13,15 +13,7 @@ I'm currently working on:
 
 My main programming languages are OCaml, JS and a bit of C/C++ with (N)ASM (ew AT&T). I'm bad in all these languages but I'm still improving :3  
 
-<details>
-<summary><strong>Some stats (*￣▽￣)旦 且(´∀`*)</strong></summary>
-<div align="center">
-  
-![wow](https://github-readme-stats.vercel.app/api?username=ArtichOwO&show_icons=true&theme=radical&layout=compact&hide_border=true)
-![waw](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtichOwO&hide=html&theme=radical&layout=compact&hide_border=true)
-  
-</div>
-</details>
+<span>(\*´ー`)旦 旦(￣ω￣\*)</span>
 <hr/>
 
 *Photo by <a href="https://unsplash.com/@jaydeee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">jordan duca</a> on <a href="https://unsplash.com/s/photos/anime?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>*
