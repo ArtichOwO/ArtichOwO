@@ -1,7 +1,7 @@
 <img src="image2.png" title="eh eh eh" align="left" height="200"/>
 
 ### Hello, hello ( ´ ▽ ` )ﾉ
-I'm a french student, who loves electronic stuff, but also music, anime and drawing (that's what you call a 'weeb').  
+I'm a french student, who loves electronic stuff, but also music, anime and drawing.  
 At school I'm learning maths and biology, and I'm planning to learn computer science more in-depth next year.  
 
 <hr />
