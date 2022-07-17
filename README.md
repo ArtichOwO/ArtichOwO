@@ -11,7 +11,7 @@ I'm currently working on:
 - [r86](https://github.com/ArtichOwO/r86), a simple programming language meant to create 16-bits 8086 applications, with a syntax similar to C;
 - [4channer](https://github.com/ArtichOwO/4channer), an iOS read-only 4chan client.
 
-My main programming languages are OCaml, JS and a bit of C/C++ with (N)ASM (ew AT&T). I'm bad in all these languages but I'm still improving :3  
+My main programming languages are OCaml, JS and a bit of C with (N)ASM (ew AT&T). I'm bad in all these languages but I'm still improving :3  
 
 <span>(\*´ー`)旦 旦(￣ω￣\*)</span>
 <hr/>
