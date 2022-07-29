@@ -9,7 +9,7 @@ At school I'm learning maths and biology, and I'm planning to learn computer sci
 I'm currently working on:
 - [ArtichOS](https://github.com/ArtichOwO/ArtichOS), a little 16 bit OS which does pretty much nothing, except it allows me to improve myself in low-level programming;
 - [r86](https://github.com/ArtichOwO/r86), a simple programming language meant to create 16-bits 8086 applications, with a syntax similar to C;
-- [4channer](https://github.com/ArtichOwO/4channer), an iOS read-only 4chan client.
+- [Indigobi](https://github.com/Tim-ats-d/Indigobi), a cute terminal-based Gemini client, with a friend.
 
 My main programming languages are OCaml, JS and a bit of C with (N)ASM (ew AT&T). I'm bad in all these languages but I'm still improving :3  
 
