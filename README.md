@@ -2,7 +2,7 @@
 
 ### Hello, hello ( ´ ▽ ` )ﾉ
 I'm a french student, who loves electronic stuff, but also music, anime and drawing.  
-I'm currently in my freshman year at uni, studying comp sci and maths.  
+I'm currently in my 2nd year at uni, studying comp sci and maths.  
 
 <span>(\*´ー`)旦 旦(￣ω￣\*)</span>
 <hr/>
