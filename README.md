@@ -1,2 +1,1 @@
-# 씨발
-![image](https://github.com/ArtichOwO/ArtichOwO/assets/63865385/dfc0e3de-0461-4f86-a8b1-849bedf98c9c)
+![ad2](https://github.com/ArtichOwO/ArtichOwO/assets/63865385/81920829-80f1-4534-9de2-d49348d5484d)
